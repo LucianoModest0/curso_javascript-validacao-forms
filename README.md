@@ -7,4 +7,4 @@
 * Preeenchendo campos de endereço automaticamente com requisições à API da ViaCEP
 * Aplicação de máscara monetária em campos de preço
 
-#### O Curos faz parte da formação Front-end:Do zero a uma carreira de sucesso no mercado web, com HTML, CSS, JavaScript! em sua terceira parte *Sites interativos, integrando o JavaScript ao Navegado*
+#### O Curso faz parte da formação Front-end:Do zero a uma carreira de sucesso no mercado web, com HTML, CSS, JavaScript! em sua terceira parte *Sites interativos, integrando o JavaScript ao Navegado*
